@@ -1,0 +1,41 @@
+P {
+  margin: 0 .25em;
+  padding: .25em 0;
+}
+
+#div-before, #div-after {
+  background-color: #88d;
+  color: #000;
+}
+
+#div-1 {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  position: relative;
+  height: 250px;
+  
+}
+
+#div-1a {
+  background-color: #d33;
+  color: #fff;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+}
+
+#div-1b {
+  background-color: #3d3;
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+}
+
+#div-1c {
+  background-color: #33d;
+  color: #fff;
+}
